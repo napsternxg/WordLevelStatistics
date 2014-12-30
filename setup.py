@@ -13,8 +13,7 @@ setup(name='WordLevelStatistics',
     clasifiers = [
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Information Technology",
-        "License :: OSI Approved :: GNU General Public License v2
-        (GPLv2)",
+        "License :: OSI Approved :: GNU General Public License v2 (GPLv2)",
         "Topic :: Text Processing :: General"
     ]
     license='GPL v2.0',
